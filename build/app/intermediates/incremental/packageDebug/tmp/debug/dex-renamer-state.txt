@@ -1,0 +1,4 @@
+#Wed Jul 06 14:35:29 SAMT 2022
+base.0=/home/vukolro/AndroidStudioProjects/magic_8_ball_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
